@@ -22,5 +22,15 @@ ALUR ALGORITMA PROGRAM :
 
 8. Terakhir perintah else jika input menu tidak ada dalam menu.
 
+HASIL PROGRAM :
+
+![d1](https://user-images.githubusercontent.com/57025775/70374672-bf2c6c80-1927-11ea-8f39-52404cc5c7eb.jpg)
+
+![d2n](https://user-images.githubusercontent.com/57025775/70374682-d53a2d00-1927-11ea-9dd6-ef8be342ab77.jpg)
+
+![d3](https://user-images.githubusercontent.com/57025775/70374683-dec39500-1927-11ea-92c6-145475310fe4.jpg)
+
+
+
 Demikian program sederhana untuk menginput data mahasiswa, semoga bermanfaat :octocat:
 
