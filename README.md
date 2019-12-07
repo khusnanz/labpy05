@@ -1,4 +1,4 @@
-PROGRAM UNTUK MENGINPUT DATA MAHASISWA
+:octocat: PROGRAM UNTUK MENGINPUT DATA MAHASISWA :octocat:
 
 FLOWCHART PROGRAM :
 
@@ -22,4 +22,5 @@ ALUR ALGORITMA PROGRAM :
 
 8.Terakhir perintah else jika input menu tidak ada dalam menu.
 
+Demikian program sederhana untuk menginput data mahasiswa, semoga bermanfaat :octocat:
 
