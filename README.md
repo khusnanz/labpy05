@@ -89,6 +89,11 @@ HASIL PROGRAM :
 
 ![5n1](https://user-images.githubusercontent.com/57025775/70382418-778cfb80-198e-11ea-8c4e-213f3d0ad182.jpg)
 
+![5n2](https://user-images.githubusercontent.com/57025775/70382503-d737d680-198f-11ea-909e-c7d5b7d92d79.jpg)
+
+![5n3](https://user-images.githubusercontent.com/57025775/70382506-ec146a00-198f-11ea-89db-9303e8f19feb.jpg)
+
+
 
 Demikian program sederhana untuk menginput data mahasiswa, semoga bermanfaat :octocat:
 
